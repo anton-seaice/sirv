@@ -17,5 +17,8 @@
     "mrmime": "1.0.0",
     "selfsigned": "1.10.7",
     "uvu": "0.5.2"
+  },
+  "dependencies": {
+    "@polka/url": "^0.5.0"
   }
 }
